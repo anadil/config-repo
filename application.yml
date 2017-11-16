@@ -6,7 +6,7 @@ eureka:
     serviceUrl:
       defaultZone: http://localhost:8761/eureka/
       
-foo: {cipher}91c2661434144f33eadf9ffe8eeb65b98441aa2720babdbbdfcbccf0fc99e8bc38cfad1c5838dd10dbf893db92388dc0
+foo: '{cipher}91c2661434144f33eadf9ffe8eeb65b98441aa2720babdbbdfcbccf0fc99e8bc38cfad1c5838dd10dbf893db92388dc0'
 
 ---
 spring:
